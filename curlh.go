@@ -8,15 +8,29 @@ import (
 )
 
 func main() {
-	var inTE, outTE *walk.TextEdit
+	var inTE, outTE, proxyServerTE, proxyUserTE, proxyPasswordTE *walk.TextEdit
 
 	var lbl *walk.Label
 
 	MainWindow{
-		Title:   "SCREAMO",
+		Title:   "MOS Upload by cURL helper",
 		MinSize: Size{600, 400},
 		Layout:  VBox{},
 		Children: []Widget{
+			Label{Text: "Proxy Server"},
+			TextEdit{AssignTo: &proxyServerTE},
+			HSplitter{
+				Children: []Widget{
+					Label{Text: "Proxy user"},
+					Label{Text: "Proxy password"},
+				},
+			},
+			HSplitter{
+				Children: []Widget{
+					TextEdit{Text: "iz", AssignTo: &proxyUserTE},
+					TextEdit{Text: "pwd", AssignTo: &proxyPasswordTE},
+				},
+			},
 			HSplitter{
 				Children: []Widget{
 					TextEdit{AssignTo: &inTE},
