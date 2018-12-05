@@ -18,7 +18,7 @@ func main() {
 		Layout:  VBox{},
 		Children: []Widget{
 			Label{Text: "Proxy Server"},
-			TextEdit{AssignTo: &proxyServerTE},
+			TextEdit{AssignTo: &proxyServerTE, walk.AlignHNearVNear},
 			HSplitter{
 				Children: []Widget{
 					Label{Text: "Proxy user"},
