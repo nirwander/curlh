@@ -1,0 +1,16 @@
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm01.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm01.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm02.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm02.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm03.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm03.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm04.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm04.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm05.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm05.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm06.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm06.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm07.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm07.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm08.tfa_Thu_Oct_04_11_20_02_MSK_2018.zip
+Z:\Exadata\SR 3-18453013281  Contentions on ADG database\msk-dm-dbadm08.tfa_Wed_Oct_03_14_56_54_MSK_2018.zip
